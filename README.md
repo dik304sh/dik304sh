@@ -7,7 +7,7 @@ Hello World!!! This is my Github profile
 
 ---
 
-**About Me**
+## About Me
 
 I’m passionate about transforming raw data into meaningful insights.  
 I’ve built dashboards and analytics projects using **Excel, SQL, Power BI, and Python**.  
@@ -15,7 +15,7 @@ My goal is to grow as a skilled Data Analyst and contribute to data-driven decis
 
 ---
 
-**Skills**
+## skills
 - **Data Tools:** Excel, Power BI, Tableau  
 - **Languages:** SQL, Python (pandas, numpy)  
 - **Concepts:** Data Cleaning, Data Modeling, DAX, ETL Process, KPI Development
