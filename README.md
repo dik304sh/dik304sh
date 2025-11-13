@@ -1,7 +1,9 @@
 # Diksha_Badad
-Hello World!!! This is my Github profile
+
+**Hello World!!! This is my Github profile**
 
 # Hi, I'm Diksha 👋
+
 **Aspiring Data Analyst** | Excel · SQL · Power BI · Python  
 📍 India | 💼 Immediate Joiner | 📊 Open to Data Analyst Roles
 
