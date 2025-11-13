@@ -1,27 +1,19 @@
-# Diksha_Badad
-
-**Hello World!!! This is my Github profile**
-
 # Hi, I'm Diksha 👋
-
+Focused on deriving actionable insights from complex data sets.
 **Aspiring Data Analyst** | Excel · SQL · Power BI · Python  
-📍 India | 💼 Immediate Joiner | 📊 Open to Data Analyst Roles
+📍 Pune,India | 💼 Immediate Joiner | 📊 Open to Data Analyst Roles
 
 ---
 
 ## About Me
-
-I’m passionate about transforming raw data into meaningful insights.  
-I’ve built dashboards and analytics projects using **Excel, SQL, Power BI, and Python**.  
-My goal is to grow as a skilled Data Analyst and contribute to data-driven decision-making.
+A highly analytical and driven Data Analyst dedicated to transforming raw data into strategic business solutions. I leverage proficiency in SQL, Python (Pandas/NumPy), Power BI, and Tableau to perform end-to-end analysis, from data cleaning and modeling to dynamic KPI dashboard creation. My focus is on data storytelling—translating complex metrics into clear, decision-making narratives for stakeholders.
 
 ---
 
 ##   Skills
-- **Data Tools:** Excel, Power BI, Tableau  
-- **Languages:** SQL, Python (pandas, numpy)  
-- **Concepts:** Data Cleaning, Data Modeling, DAX, ETL Process, KPI Development
-
+- **Databases & Programming**:	SQL (Querying, Stored Procedures, Optimization), Python (Pandas, NumPy, Matplotlib).
+- **Business Intelligence (BI)**:	Power BI (DAX, Data Modeling), Tableau (Calculated Fields, Story Points), Advanced Excel (VBA, Power Query).
+- **Core Concepts**: Data Modeling (Star/Snowflake Schema), ETL/ELT Processes, KPI Development,Data Validation.
 ---
 
 ## Featured Projects
