@@ -22,7 +22,7 @@ My goal is to grow as a skilled Data Analyst and contribute to data-driven decis
 
 ---
 
-**Featured Projects**
+## Featured Projects
 
 **Adventure Works Dashboard**
 - Designed an interactive sales performance dashboard using Tableau.  
