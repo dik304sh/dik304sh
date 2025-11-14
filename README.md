@@ -2,13 +2,12 @@
 Focused on deriving actionable insights from complex data sets.
 
 **Aspiring Data Analyst** | Excel · SQL · Power BI · Python  
-📍 Pune,India | 💼 Immediate Joiner | 📊 Open to Data Analyst Roles
+📍 Pune, India | 💼 Immediate Joiner | 📊 Open to Data Analyst Roles
 
 ---
 
 ## About Me
-A highly analytical and driven Data Analyst dedicated to transforming raw data into strategic business solutions. I leverage proficiency in SQL, Python (Pandas/NumPy), Power BI, and Tableau to perform end-to-end analysis, from data cleaning and modeling to dynamic KPI dashboard creation. My focus is on data storytelling—translating complex metrics into clear, decision-making narratives for stakeholders.
-
+A highly analytical and driven Data Analyst dedicated to transforming raw data into strategic business solutions. I leverage proficiency in SQL, Python (Pandas/NumPy), Power BI, and Tableau to perform end-to-end analysis, from data cleaning and modeling to dynamic KPI dashboard creation.My focus is on accurate analysis and presenting insights clearly for better decision-making.
 ---
 
 ##   Skills
@@ -19,9 +18,9 @@ A highly analytical and driven Data Analyst dedicated to transforming raw data i
 
 ## Featured Projects
 
-# Data Analytics Projects – STAR Method
+### Data Analytics Projects – STAR Method
 
-## 1. Adventure Works Sales Dashboard
+### 1. Adventure Works Sales Dashboard
 
 **Situation:** Adventure Works required insights into their overall sales performance.  
 **Task:** Analyze sales trends, customer patterns, and product performance.  
@@ -30,7 +29,7 @@ A highly analytical and driven Data Analyst dedicated to transforming raw data i
 
 ---
 
-## 2. Bank Analytics Dashboard
+### 2. Bank Analytics Dashboard
 
 **Situation:** The bank needed visibility into loan performance and customer risk.  
 **Task:** Analyze loan approvals, defaults, customer segments, and business KPIs.  
@@ -39,7 +38,7 @@ A highly analytical and driven Data Analyst dedicated to transforming raw data i
 
 ---
 
-## 3. Bank Debit & Credit Dashboard
+### 3. Bank Debit & Credit Dashboard
 
 **Situation:** The bank wanted insights into customer debit and credit transaction activity.  
 **Task:** Analyze transaction volume, top customers, and spending trends.  
