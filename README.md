@@ -13,7 +13,7 @@ A highly analytical and driven Data Analyst dedicated to transforming raw data i
 
 ##   Skills
 - **Databases & Programming**:	SQL (Querying, Stored Procedures, Optimization), Python (Pandas, NumPy, Matplotlib).
-- **Business Intelligence (BI)**:	Power BI (DAX, Data Modeling), Tableau (Calculated Fields, Story Points), Advanced Excel (VBA, Power Query).
+- **Business Intelligence (BI)**:	Power BI (DAX, Data Modeling), Tableau (Calculated Fields, Story Points), Advanced Excel (Power Pivot, Power Query).
 - **Core Concepts**: Data Modeling (Star/Snowflake Schema), ETL/ELT Processes, KPI Development,Data Validation.
 ---
 
