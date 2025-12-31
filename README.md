@@ -22,10 +22,11 @@ A highly analytical and driven Data Analyst dedicated to transforming raw data i
 ### Data Analytics Projects – STAR Method
 
 | Project | Situation | Task | Action | Result |
-|---------|-----------|------|--------|--------|
+|--------|-----------|------|--------|--------|
 | **Adventure Works Sales Dashboard** | Adventure Works needed insights into overall sales performance | Analyze sales trends, customer patterns, and product performance | Cleaned data, built a data model, and created an interactive Power BI dashboard using DAX | Delivered KPIs, top products/customers, regional insights, and monthly trends |
 | **Bank Analytics Dashboard** | Bank needed visibility into loan performance and customer risk | Analyze loan approvals, defaults, customer segments, and business KPIs | Cleaned data in Excel, validated KPIs using SQL, and built a Power BI dashboard | Provided insights on default rate, total loan disbursed, customer behavior, and monthly trends |
 | **Bank Debit & Credit Dashboard** | Bank wanted insights into customer debit/credit transactions | Analyze transaction volume, top customers, and spending trends | Modeled and visualized data in Power BI with KPIs and interactive visuals | Highlighted top 5 customers, monthly transaction patterns, and spending categories |
+| **Zomato Restaurant Analytics Dashboard** | Zomato wanted to understand customer preferences and restaurant performance | Analyze restaurant ratings, locations, cuisines, pricing, and online delivery trends | Cleaned and transformed data, analyzed key factors, and built an interactive Power BI dashboard | Identified popular cuisines, high-performing cities, impact of cost on ratings, and delivery trends |
 
 ---
 
